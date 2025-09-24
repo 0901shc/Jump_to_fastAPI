@@ -1,0 +1,1 @@
+# FastAPI_solo_study
